@@ -1,6 +1,12 @@
-void showAll() {}
+void showAll() {
+  print('1. Lunch : 50 baht');
+  print('1. Coffee : 70 baht');
+}
 
-void totalPaid() {}
+void totalPaid() {
+  print('Total = 120 baht');
+}
+
 void main() {
   showAll();
 
